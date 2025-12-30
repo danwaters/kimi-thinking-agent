@@ -409,7 +409,7 @@ wheels = [
 ]
 
 [[package]]
-name = "kimi-thinking-agent"
+name = "kimi-thinking-agent-backend"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
